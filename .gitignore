@@ -1,3 +1,6 @@
+#ignore old project files
+/stopWatch
+
 # Production Build Output
 dist/
 dist-ssr/
